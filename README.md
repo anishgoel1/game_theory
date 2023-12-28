@@ -4,4 +4,4 @@
 
 `saddle_point.py` computes the saddle for a game matrix with example matrices from pgs 8, 9
 
-`2x2.py` implements optimal strategy for determining `p, q, v` for a 2x2 game matrix using saddle point detection and the formulas from pgs 9. 10
+`2x2.py` implements optimal strategy for determining `p, q, v` for a 2x2 game matrix using saddle point detection and the formulas from pgs 9, 10
