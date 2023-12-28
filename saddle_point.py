@@ -20,9 +20,9 @@ def saddle_point(mat):
 
 
 # Example 1:
-A_1 = np.array([[4, 1, -3], [3, 2, 5], [0, 1, 6]])
-print("SADDLE POINT A1:", saddle_point(A_1))
+# A_1 = np.array([[4, 1, -3], [3, 2, 5], [0, 1, 6]])
+# print("SADDLE POINT A1:", saddle_point(A_1))
 
 # Example 2:
-A_2 = np.array([[3, 1, 1, 0], [0, 1, 2, 0], [1, 0, 2, 1], [3, 1, 2, 2]])
-print("SADDLE POINT A2:", saddle_point(A_2))
+# A_2 = np.array([[3, 1, 1, 0], [0, 1, 2, 0], [1, 0, 2, 1], [3, 1, 2, 2]])
+# print("SADDLE POINT A2:", saddle_point(A_2))
