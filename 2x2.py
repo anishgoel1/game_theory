@@ -3,6 +3,10 @@ import numpy as np
 
 
 def optimal_strategy(mat):
+    """
+    :param mat: game matrix
+    :return: optimal strategy: p (probability of row 1 for p1), q (probability of col 1 for p2), v {payoff}
+    """
     saddle = saddle_point(mat)
     if saddle is not None:
         p, q = 1, 1
